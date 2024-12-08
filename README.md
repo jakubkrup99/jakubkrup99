@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi! 👋 I’m a third-year Applied Computer Science student at Nicolaus Copernicus University in Toruń. I’m passionate about martial arts, military topics, and software development.
 
+I specialize in web technologies such as  React and ASP.NET Core. I enjoy building applications that solve real-world problems and help users.
+
+I’m constantly improving my programming skills by exploring new technologies and working on various projects. My goal is to become a professional .NET developer and create modern, scalable web applications.
+
+Feel free to check out my projects! 🚀
 <!--
 **jakubkrup99/jakubkrup99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
